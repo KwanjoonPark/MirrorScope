@@ -3,7 +3,7 @@ AI-based comment analyzer that summarizes user opinions and suggests opposing pe
 
 ## 🧠 MirrorScope - Break the Echo Chamber
 
-> **편된 정보 속에서 규함 있는 생각을 가능하게 하는 AI 기반 댓글 분석 서비스**
+> **편향된 정보 속에서 규함 있는 생각을 가능하게 하는 AI 기반 댓글 분석 서비스**
 
 ---
 
@@ -92,3 +92,4 @@ GEMINI_API_KEY=your-gemini-api-key
 
 * 박관준 [@KwanjoonPark](https://github.com/KwanjoonPark)
 * 김진영 [@jinyeonggg](https://github.com/jinyeonggg)
+* 문수진 [@sujinmun52](https://github.com/sujin52)
