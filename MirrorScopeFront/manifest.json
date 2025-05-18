@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "MirrorScope",
+    "version": "1.0",
+    "description": "웹페이지에서 드래그하면 시선 분석 버튼을 보여주는 확장 프로그램",
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": ["<all_urls>"],
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"],
+        "css": ["style.css"]
+      }
+    ],
+    "action": {
+      "default_title": "MirrorScope"
+    },
+    "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'; connect-src http://localhost:8000"
+    }
+  }
