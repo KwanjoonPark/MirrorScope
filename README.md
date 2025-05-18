@@ -27,7 +27,7 @@ AI-based comment analyzer that summarizes user opinions and suggests opposing pe
 * 📰 **관련 이슈 뉴스 검색어 추천**
   → AI가 댓글 주제에 맞는 **중립적 키워드**를 생성해서 검색 링크 제공
 
-* 🪡 **사고 확장의 구**
+* 🪡 **사고 확장의 구현**
   → 사용자가 보지 못한 시각을 제시함으로써 **인지적 다양성** 유도
 
 ---
@@ -93,3 +93,4 @@ GEMINI_API_KEY=your-gemini-api-key
 * 박관준 [@KwanjoonPark](https://github.com/KwanjoonPark)
 * 김진영 [@jinyeonggg](https://github.com/jinyeonggg)
 * 문수진 [@sujinmun52](https://github.com/sujin52)
+* 박광후 [@rhkdgn322](https://github.com/rhkdgn322)
