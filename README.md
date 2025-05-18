@@ -92,5 +92,5 @@ GEMINI_API_KEY=your-gemini-api-key
 
 * 박관준 [@KwanjoonPark](https://github.com/KwanjoonPark)
 * 김진영 [@jinyeonggg](https://github.com/jinyeonggg)
-* 문수진 [@sujinmun52](https://github.com/sujin52)
-* 박광후 [@rhkdgn322](https://github.com/rhkdgn322)
+* 문수진 [@sujinmun52](https://github.com/sujinmun52)
+* 박광후 [@rhkdgn322](https://github.com/rhkdgn)
