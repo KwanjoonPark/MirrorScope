@@ -58,6 +58,7 @@ pip install -r requirements.txt
 
 ```
 GEMINI_API_KEY=your-gemini-api-key
+GEMINI_MODEL=your-gemini-model
 ```
 
 ---
@@ -88,7 +89,7 @@ GEMINI_API_KEY=your-gemini-api-key
 
 ---
 
-### 👥 만들어주시는 노력자
+### 👥 Coworkers
 
 * 박관준 [@KwanjoonPark](https://github.com/KwanjoonPark)
 * 김진영 [@jinyeonggg](https://github.com/jinyeonggg)
