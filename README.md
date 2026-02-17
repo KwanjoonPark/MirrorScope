@@ -61,6 +61,10 @@ GEMINI_API_KEY=your-gemini-api-key
 GEMINI_MODEL=your-gemini-model
 ```
 
+데모영상
+
+![MirrorScope 데모영상](https://github.com/user-attachments/assets/00d8d75f-05d2-4544-a813-baed6a3e64ab)
+
 ---
 
 ### 파일 그래프
